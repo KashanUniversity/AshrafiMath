@@ -752,8 +752,8 @@ require "_base.php";
         </ul>
         <br>
 
-        <h2 class="title">JOURNAL PUBLICATIONS</h2>
-        <h3>PAPERS PUBLISHED IN MATHEMATICS JOURNALS</h3>
+        <h2 class="title">Journal Publications PUBLICATIONS</h2>
+        <h3>Papers Published in Mathematics Journals</h3>
 
         <h4>1995</h4>
         <ul>
