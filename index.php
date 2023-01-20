@@ -522,6 +522,41 @@ require "_base.php";
                     <img src="images/79.jpg" alt="Professor Ali Reza Ashrafi">
                 </a>
             </div>
+            <div class="grid-item">
+                <a href="images/80.jpg">
+                    <img src="images/80.jpg" alt="Professor Ali Reza Ashrafi">
+                </a>
+            </div>
+            <div class="grid-item">
+                <a href="images/81.jpg">
+                    <img src="images/81.jpg" alt="Professor Ali Reza Ashrafi">
+                </a>
+            </div>
+            <div class="grid-item">
+                <a href="images/82.jpg">
+                    <img src="images/82.jpg" alt="Professor Ali Reza Ashrafi">
+                </a>
+            </div>
+            <div class="grid-item">
+                <a href="images/83.jpg">
+                    <img src="images/83.jpg" alt="Professor Ali Reza Ashrafi">
+                </a>
+            </div>
+            <div class="grid-item">
+                <a href="images/84.jpg">
+                    <img src="images/84.jpg" alt="Professor Ali Reza Ashrafi">
+                </a>
+            </div>
+            <div class="grid-item">
+                <a href="images/85.jpg">
+                    <img src="images/85.jpg" alt="Professor Ali Reza Ashrafi">
+                </a>
+            </div>
+            <div class="grid-item">
+                <a href="images/86.jpg">
+                    <img src="images/86.jpg" alt="Professor Ali Reza Ashrafi">
+                </a>
+            </div>
         </div>
         <br>
 
