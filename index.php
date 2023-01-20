@@ -558,9 +558,8 @@ require "_base.php";
             </li>
             <li>
                 <b>Editor-in-Chief (2012 - 2013)</b>
-            </li>
-            <li>
-                <b>Bulletin of the Iranian Mathematical Society  (Iranian Mathematical Society)</b>
+                <br>
+                Bulletin of the Iranian Mathematical Society  (Iranian Mathematical Society)
             </li>
             <li>
                 <b>Editorial Board Member (2012 - present)</b>
@@ -625,7 +624,7 @@ require "_base.php";
             <li><b>2001 - 2005:</b> Associate Professor of Mathematics, Department of Mathematics, University of Kashan, Kashan, I. R. Iran.
             <li><b>2000 - 2001:</b> Dean of the Faculty of Science, University of Kashan, Kashan, I. R. Iran.
             <li><b>1999:</b> Vice Dean of the Faculty of Science, University of Kashan, Kashan, I. R. Iran.
-            <li><b>1996 - 2000:</b> Assistant Professor of Mathematics,Department of Mathematics, University of Kashan, Kashan, I. R. Iran.
+            <li><b>1996 - 2000:</b> Assistant Professor of Mathematics, Department of Mathematics, University of Kashan, Kashan, I. R. Iran.
         </ul>
         <br>
 
@@ -732,12 +731,12 @@ require "_base.php";
             <li>
                 <b>Topological Modelling of Nanostructures and Extended Systems</b>, Springer;
                 <br>
-                Ali Reza Ashrafi,Franco Cataldo, Ali Iranmanesh,Ottorino Ori
+                Ali Reza Ashrafi, Franco Cataldo, Ali Iranmanesh, Ottorino Ori
             </li>
             <li>
                 <b>Diamond and Related Nanostructures</b>, Springer Netherlands;
                 <br>
-                Ali Reza Ashrafi,Fatemeh Koorepazan-Moftakhar, Mircea Diudea, Monica Stefu
+                Ali Reza Ashrafi, Fatemeh Koorepazan-Moftakhar, Mircea Diudea, Monica Stefu
             </li>
             <li>
                 <b>Topological Modelling of Nanostructures and Extended Systems</b>, Springer Netherlands;
@@ -931,7 +930,7 @@ require "_base.php";
             50.	M. Alaeiyan and A. R. Ashrafi, <b>On a class of p-groups and its Cayley graphs</b>, Italian Journal of Pure and Applied Mathematics 20 (2006) 169-176.
             </li>
             <li>
-            51.	M. Ghorbani, M. Jalal-Abadi and A. R. Ashrafi, <b>Computing orbits of the automorphism group of the subsequence poset Bm,n, Order 23</b> (2-3)(2006) 163-168.
+            51.	M. Ghorbani, M. Jalal-Abadi and A. R. Ashrafi, <b>Computing orbits of the automorphism group of the subsequence poset Bm, n, Order 23</b> (2-3)(2006) 163-168.
             </li>
             <li>
             52.	A. Andikfar and A. R. Ashrafi, <b>On finite groups all of whose proper subgroups are w-cyclic</b>, Carpathian Journal of Mathematics 22 (1-2) (2006) 1-5.
