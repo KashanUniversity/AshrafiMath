@@ -687,6 +687,16 @@ require "_base.php";
                     <img src="images/112.jpg" alt="Professor Ali Reza Ashrafi">
                 </a>
             </div>
+            <div class="grid-item">
+                <a href="images/113.jpg">
+                    <img src="images/113.jpg" alt="Professor Ali Reza Ashrafi">
+                </a>
+            </div>
+            <div class="grid-item">
+                <a href="images/114.jpg">
+                    <img src="images/114.jpg" alt="Professor Ali Reza Ashrafi">
+                </a>
+            </div>
         </div>
         <br>
 
