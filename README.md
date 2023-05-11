@@ -2,7 +2,7 @@
 
 ## Memorial Of The Great Scientist Professor Ali Reza Ashrafi
 
-Ali Reza Ashrafi (1964 – 9 January 2023) was an Iranian mathematician who worked in computational group theory and mathematical chemistry. Ashrafi was the vice president of the International Academy of Mathematical Chemistry.
+Ali Reza Ashrafi (1964 – 9 January 2023) was an Iranian mathematician who worked in computational group theory and mathematical chemistry. Ashrafi was the Vice President of the International Academy of Mathematical Chemistry.
 
 **Wikipedia:** https://en.wikipedia.org/wiki/Ali_Reza_Ashrafi
 
